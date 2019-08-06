@@ -1,0 +1,6 @@
+C:/Users/server_win10/CLionProjects/GitHubCAlgthrom/cmake-build-debug/CMakeFiles/CAlgthrom.dir
+C:/Users/server_win10/CLionProjects/GitHubCAlgthrom/cmake-build-debug/CMakeFiles/Bulle_sort.dir
+C:/Users/server_win10/CLionProjects/GitHubCAlgthrom/cmake-build-debug/CMakeFiles/Bucket_Sort.dir
+C:/Users/server_win10/CLionProjects/GitHubCAlgthrom/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/server_win10/CLionProjects/GitHubCAlgthrom/cmake-build-debug/CMakeFiles/Quick_sort.dir
+C:/Users/server_win10/CLionProjects/GitHubCAlgthrom/cmake-build-debug/CMakeFiles/edit_cache.dir

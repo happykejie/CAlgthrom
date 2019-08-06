@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/server_win10/CLionProjects/GitHubCAlgthrom/BaseAlgorithm/Quick_Sort.cpp
+bits/stdc++.h
+-
+
